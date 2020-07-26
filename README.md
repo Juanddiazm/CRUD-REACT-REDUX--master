@@ -1,3 +1,5 @@
+This proyect use a fake API, for run a API run: json-server db.json --port 4000
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
