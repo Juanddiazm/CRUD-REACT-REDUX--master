@@ -1,11 +1,6 @@
 {
   "productos": [
     {
-      "nombre": "Jugo de Naranja",
-      "precio": "300",
-      "id": 3
-    },
-    {
       "nombre": "Rib Eye 800g",
       "precio": "200",
       "id": 4
@@ -19,6 +14,11 @@
       "nombre": "RTX 3600 ",
       "precio": 1500000,
       "id": 7
+    },
+    {
+      "nombre": "Ryzen 3600",
+      "precio": 600,
+      "id": 8
     }
   ]
 }
